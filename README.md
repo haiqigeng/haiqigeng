@@ -19,7 +19,7 @@ recommendations.
 
 ## Featured Analytics Repositories
 
-- [GA4 Tracking Plan](https://github.com/HQ-Guillaume/ga4-tracking-plan-WIP)  
+- [GA4 Tracking Plan](https://github.com/HQ-Guillaume/ga4-tracking-plan)  
   Codex skill package for creating GA4 tracking plans and XLSX-ready analytics
   schemas, with focus on event design, parameters, ecommerce tracking, and QA.
 
