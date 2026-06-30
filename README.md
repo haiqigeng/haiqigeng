@@ -1,65 +1,32 @@
-# Hi, I'm Haiqi GENG
+Hi 👋 I'm Haiqi Geng
+====================
 
-I'm a Digital Analyst based in France, focused on tracking, data quality,
-web/app analytics, and conversion insights.
+Digital Analyst | GA4 · Server-Side GTM · BigQuery | Tracking, Data Quality & Conversion Insights
+-------------------------------------------------------------------------------------------------
 
-I help product, e-commerce, and marketing teams make digital measurement more
-reliable, then turn behavioral data into analysis, dashboards, and business
-recommendations.
+I make digital measurement **reliable**, then turn behavioral data into analysis, dashboards,
+and decisions — lately with 🤖 **AI-assisted, reproducible analytics workflows**.
 
-## What I Work On
+* 🌍  Based in France · 🗣️ Chinese (native), English & French (professional)
+* 📊  GA4 · server-side GTM · BigQuery · Looker Studio — for product, e-commerce & marketing teams
+* 🧪  Focus: tracking QA, data quality, funnel & conversion analysis
+* 👇  My analytics tooling is pinned below — and let's connect on [LinkedIn](https://www.linkedin.com/in/haiqi-geng/)
 
-- Web and app analytics: GA4, Adobe Analytics, Firebase, Adjust
-- Tagging and implementation: GTM, server-side GTM, Tag Commander, Tealium,
-  Measurement Protocol
-- Data analysis: BigQuery, SQL, Looker Studio, Tableau
-- Data quality, tracking QA, funnel analysis, UX insights, and conversion
-  optimization
-- AI-assisted analytics workflows, documentation, and reproducible analysis
+### Skills
 
-## Featured Analytics Repositories
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Server-side GTM](https://img.shields.io/badge/Server--side%20GTM-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-- [GA4 Tracking Plan](https://github.com/HQ-Guillaume/ga4-tracking-plan)  
-  Codex skill package for creating GA4 tracking plans and XLSX-ready analytics
-  schemas, with focus on event design, parameters, ecommerce tracking, and QA.
+<details>
+<summary>Experience & certifications</summary>
 
-- [Web Analyst MCP Setup](https://github.com/HQ-Guillaume/web-analyst-mcp-setup)  
-  Windows-first setup kit for web analysts using AI agents, MCP servers, Google
-  tools, and secure onboarding workflows.
+* **Carrefour** — Digital Product Analyst: e-commerce performance, product KPIs, BigQuery, funnel & UX, server-side tracking migration.
+* **Converteo** — Digital Analytics Consultant: enterprise tracking plans, GA4 migrations, server-side & app tracking, dashboards.
+* **ISC Paris** — early web analytics: lead gen, campaigns, A/B testing.
 
-- [Governed Analytics Workflow](https://github.com/HQ-Guillaume/governed-analytics-workflow)  
-  Structured workflow for turning business questions into traceable analysis,
-  metric definitions, reproducible evidence, human review, and stakeholder-ready
-  outputs.
-
-## Experience Highlights
-
-- Previously Digital Product Analyst at Carrefour, working on web/app
-  e-commerce performance, product KPIs, BigQuery analysis, funnel analysis, UX
-  pain points, and server-side tracking migration.
-- Previously Digital Analytics Consultant at Converteo, supporting enterprise
-  clients on tracking plans, GA4 migration, server-side analytics, app tracking,
-  data quality, dashboards, and analytics documentation.
-- Earlier traffic and web analytics experience at ISC Paris, focused on lead
-  generation, campaign performance, A/B testing, dashboards, and landing page
-  optimization.
-
-## Certifications And Skills
-
-- Google Data Analytics
-- Tableau
-- AB Tasty Expert
-- UX Audit
-- Meta Certified Media Buying Professional
-- LinkedIn Ads Certification
-- Snapchat Ads Certification
-
-## Languages
-
-- Chinese: native / bilingual
-- English: full professional proficiency
-- French: full professional proficiency
-
-## Connect
-
-- LinkedIn: [haiqi-geng](https://www.linkedin.com/in/haiqi-geng/)
+`Google Data Analytics` · `Tableau` · `AB Tasty Expert` · `UX Audit` · `Meta / LinkedIn / Snapchat Ads`
+</details>
